@@ -1,6 +1,10 @@
-# W01 Assignment Notes
+# vCSE 325 Assignments
 
-## Part 1: Pizza Web API — Pizzas List and CRUD Evidence
+Ongoing notes, assignment artifacts, and testing evidence for vCSE 325: .NET Software Development.
+
+## Week 1
+
+### Part 1: Pizza Web API — Pizzas List and CRUD Evidence
 
 ### Pizzas List (existing 3 + 1 added record)
 
